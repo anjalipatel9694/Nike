@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="selenium.NikeTest1"/>
+      <class name="selenium.NikeTest2_CreateUser"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

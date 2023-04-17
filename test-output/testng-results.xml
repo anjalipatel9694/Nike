@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-30T19:35:14Z" name="Suite" finished-at="2022-12-30T19:35:52Z" duration-ms="37783">
+    <groups>
+    </groups>
+    <test started-at="2022-12-30T19:35:14Z" name="Test" finished-at="2022-12-30T19:35:52Z" duration-ms="37783">
+      <class name="selenium.NikeTest1">
+        <test-method is-config="true" signature="testSetup()[pri:0, instance:selenium.NikeTest1@53976f5c]" started-at="2022-12-30T19:35:14Z" name="testSetup" finished-at="2022-12-30T19:35:26Z" duration-ms="12251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method signature="signin()[pri:0, instance:selenium.NikeTest1@53976f5c]" started-at="2022-12-30T19:35:26Z" name="signin" finished-at="2022-12-30T19:35:33Z" duration-ms="6627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:selenium.NikeTest1@53976f5c]" started-at="2022-12-30T19:35:33Z" name="afterClass" finished-at="2022-12-30T19:35:34Z" duration-ms="751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- selenium.NikeTest1 -->
+      <class name="selenium.NikeTest2_CreateUser">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:selenium.NikeTest2_CreateUser@2bfc268b]" started-at="2022-12-30T19:35:34Z" name="openbrowser" finished-at="2022-12-30T19:35:43Z" duration-ms="9324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="createuser_account()[pri:0, instance:selenium.NikeTest2_CreateUser@2bfc268b]" started-at="2022-12-30T19:35:43Z" name="createuser_account" finished-at="2022-12-30T19:35:51Z" duration-ms="8064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createuser_account -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:selenium.NikeTest2_CreateUser@2bfc268b]" started-at="2022-12-30T19:35:51Z" name="afterClass" finished-at="2022-12-30T19:35:52Z" duration-ms="739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- selenium.NikeTest2_CreateUser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
